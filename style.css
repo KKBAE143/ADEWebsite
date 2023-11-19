@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    color: white;
+    color: #fff;
 }
 
 html,body {
@@ -34,7 +34,7 @@ html,body {
     display: flex;
     align-items: center;
     padding: 0 150px;
-    gap: 50px;
+    gap: 31px;
     position: fixed;
     justify-content: flex-start;
     z-index: 99;
